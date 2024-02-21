@@ -38,7 +38,8 @@
 
 ###
 
-<p align="left">I'm  Niranjan <br><br>🔥Passionate about crafting intuitive user experiences. UI/UX enthusiast skilled in Sketch, Figma, and Adobe Creative Suite.<br><br>🤗Embracing the world of web development with HTML, CSS, and JavaScript. <br><br>🌍Exploring the art of problem-solving through C++ for data structures and algorithms. <br><br>🙋🏼‍♂️Enthusiastic about automating tasks with Python. Committed to user-centric design and fostering collaboration across disciplines. <br><br>🤓Lifelong learner on a journey of creativity and code.</p>
+<p align="left">I'm  Niranjan <br><br>🙋🏼‍♂️Enthusiastic about automating tasks with Python. Committed to user-centric design and fostering collaboration across disciplines. <br><br>🔥Passionate about crafting intuitive user experiences. UI/UX enthusiast skilled in Sketch, Figma, and Adobe Creative Suite.<br><br>🤗Embracing the world of web development with HTML, CSS, and JavaScript. <br><br>🌍Exploring the art of problem-solving through C++ for data structures and algorithms. <br><br>🤓Lifelong learner on a journey of creativity and code.</p>
+
 
 ###
 
